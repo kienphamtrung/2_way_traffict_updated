@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=PA10 Pin=D7-1
+Removed Pin From Net: NetName=PB3 Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D7-3
+Removed Pin From Net: NetName=PB0 Pin=D7-4
+Removed Pin From Net: NetName=PA4 Pin=D7-5
+Removed Pin From Net: NetName=PC1 Pin=D7-6
+Removed Pin From Net: NetName=PC0 Pin=D7-7
+Removed Pin From Net: NetName=GND Pin=D7-8
+Removed Pin From Net: NetName=PA3 Pin=D7-9
+Removed Pin From Net: NetName=PA2 Pin=D7-10
+Removed Member From Class: ClassName=SCH_2-way_Traffic Member=D7
+Added Component: Designator=D?(LED/7SEG/0.56)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA10 Pin=D?-1
+Added Pin To Net: NetName=PB3 Pin=D?-2
+Added Pin To Net: NetName=+5 Pin=D?-3
+Added Pin To Net: NetName=PB0 Pin=D?-4
+Added Pin To Net: NetName=PA4 Pin=D?-5
+Added Pin To Net: NetName=PC1 Pin=D?-6
+Added Pin To Net: NetName=PC0 Pin=D?-7
+Added Pin To Net: NetName=+5 Pin=D?-8
+Added Pin To Net: NetName=PA3 Pin=D?-9
+Added Pin To Net: NetName=PA2 Pin=D?-10
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component D? SM410563N
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component R5 R

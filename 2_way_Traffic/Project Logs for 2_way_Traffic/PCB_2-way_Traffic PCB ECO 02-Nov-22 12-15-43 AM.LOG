@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Added Component: Designator=R7(R 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD7_7 Pin=D7-7
+Added Pin To Net: NetName=NetD7_7 Pin=R7-2
+Added Net: Name=NetD7_7
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component R7 R
